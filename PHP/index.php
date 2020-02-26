@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Jahid Vai Legend</title>
+	<title>Turjo Bhai Legend er Baap/title>
 </head>
 <body>
 
