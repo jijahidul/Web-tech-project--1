@@ -1,9 +1,9 @@
 body{
   margin: 0;
   padding: 0;
-  background: url(g4.gif);
+  background: url(g6.gif);
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: cover;
 }
 .login-form{
   width: 300px;
