@@ -43,6 +43,7 @@ $uname="";$err_uname="";
         
         <input type="submit" name="login" value="Log In" class="login-btn">
         <a href="gen_user_signup.php">Create an account</a>
+        <div class="topright"><a href="index.html">Home</a></div>
     </div>
   </body>
 </html>
