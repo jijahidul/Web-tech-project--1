@@ -42,7 +42,7 @@ $uname="";$err_uname="";
         <input type="password" placeholder="Password" class="txtb" name="pass">
         
         <input type="submit" name="login" value="Log In" class="login-btn">
-        <a href="#">Create an account</a>
+        <a href="gen_user_signup.php">Create an account</a>
     </div>
   </body>
 </html>
