@@ -17,7 +17,7 @@ $uname="";$err_uname="";
 		}
 		if($uname=="sponsor" && $pass=="sponsor")
 		{
-			header("Location:Sponsor_index.php");
+			header("Location:sphome.php");
 		}
 		else{$err_uname="*Invalid Username or Password!!";}
 	}
